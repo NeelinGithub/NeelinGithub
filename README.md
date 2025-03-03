@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AWS, Azure, Rust, DSA, Application Security**
 
-- 👨‍💻 All of my projects are available at [https://neelingithub.github.io/portfolio/](https://neelvnpatel.vercel.app/)
+- 👨‍💻 My Portfolio Website: [Portfolio Website](https://neelvnpatel.vercel.app/)
 
 - 💬 Ask me about **React, Python, JavaScript, C/C++**
 
