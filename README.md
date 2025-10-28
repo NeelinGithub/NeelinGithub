@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **neelvrpatel14@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Upmpoj73hsdwsF0Yy3Mv9wWyd25XDDsJ/edit?usp=drive_link&ouid=100322184178297813561&rtpof=true&sd=true](https://docs.google.com/document/d/1Upmpoj73hsdwsF0Yy3Mv9wWyd25XDDsJ/edit?usp=drive_link&ouid=100322184178297813561&rtpof=true&sd=true)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1Upmpoj73hsdwsF0Yy3Mv9wWyd25XDDsJ/edit?usp=drive_link&ouid=100322184178297813561&rtpof=true&sd=true)
 
 - ⚡ Fun fact **I love anime,food and late-night coding, sometimes all three at once!!**
 
