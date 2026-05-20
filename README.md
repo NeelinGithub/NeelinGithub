@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neel</h1>
-<h3 align="center">A passionate technlogist from Canada</h3>
+<h3 align="center">A passionate technologist from Canada</h3>
 
 - 🔭 I’m currently working on [Smart Authentication System](https://github.com/NeelinGithub/smart-mfa)
 
